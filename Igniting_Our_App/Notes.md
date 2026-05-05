@@ -41,3 +41,25 @@ There are two types of Dependencies that we are installing : <br>
 - -D beacuase it's a Dev Dependency .
 
 - _npx parcel index.html_ means to invoke / execute our parcel here .
+
+- Dev-Build
+
+- HMR (Hot Module Replacement)
+- Parcel uses a File Watching Algorithm to Do HMR . File Watching Algorithm is written in CPP.
+
+- Faster Build Experience using caching our files - uses parcel-cache
+
+- Image Optimization
+
+- Minifiy and compress our file in our Production Builds .
+
+- Bundlers are responsible to make react fast .
+
+- Consistent Hasing
+
+- Differetial Bundling -- Written in C++ . (Supports Older Browsers) .
+- Tree Shaking - remove unused code for you .
+- HTTPS - ssl build
+- create separte Dev and production Builds
+- Development Builds are kept in the dist folder .
+- Read Parcel Documents [Parcel Docs](https://parceljs.org/docs/)

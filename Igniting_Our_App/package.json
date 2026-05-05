@@ -2,7 +2,6 @@
   "name": "igniting_our_app",
   "version": "1.0.0",
   "description": "Namaste React By Akshay Saini ",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
