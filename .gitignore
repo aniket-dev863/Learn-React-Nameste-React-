@@ -50,3 +50,7 @@ Thumbs.db
 
 # TypeScript
 *.tsbuildinfo
+
+#parcel 
+dist/
+.parcel-cache/
