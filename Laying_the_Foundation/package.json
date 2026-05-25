@@ -4,7 +4,7 @@
   "description": "Namaste React By Akshay Saini ",
   "scripts": {
     "test": "jest",
-    "start": "npx parcel index.js",
+    "start": "npx parcel index.html",
     "build": "npx"
   },
   "author": "Aniket Vyavahare",
