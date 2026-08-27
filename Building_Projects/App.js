@@ -22,7 +22,7 @@ const HeaderComp = () => {
   );
 };
 
-const RestaurentCard = () => {
+const RestaurentCard = (props) => {
   return (
     <div className="resCard">
       <img
@@ -30,9 +30,9 @@ const RestaurentCard = () => {
         alt="IMG"
         src="https://w0.peakpx.com/wallpaper/101/95/HD-wallpaper-burgers-fast-food-delicious-food-sandwiches-harmful-food.jpg"
       />
-      <h3>Meghana Foods</h3>
-      <h4>Biryani , Chinese and Thai Cousines</h4>
-      <h4>4.4 Stars</h4>
+      <h3>{props.name}</h3>
+      <h4>{props.Cuisine}</h4>
+      <h4>{props.Rating}</h4>
     </div>
   );
 };
@@ -42,10 +42,26 @@ const BodyComponent = () => {
     <div className="Body">
       <div className="Search">SearchBar</div>
       <div className="Restuarent-Container">
-        <RestaurentCard />
-        <RestaurentCard />
-        <RestaurentCard />
-        <RestaurentCard />
+        <RestaurentCard
+          name="Meghna Foods"
+          Cuisine="Biryani , Chinese and Thai Cousines"
+          Rating="4.4 Stars"
+        />
+        <RestaurentCard
+          name="KFC"
+          Cuisine="Biryani , Chinese and Thai Cousines"
+          Rating="4.8 Stars"
+        />
+        <RestaurentCard
+          name="MTR"
+          Cuisine="South Indian Dishes"
+          Rating="4.3 Stars"
+        />
+        <RestaurentCard
+          name="Mamledar Misal"
+          Cuisine="Maharashtrian Dishes"
+          Rating="4.3 Stars"
+        />
       </div>
     </div>
   );
