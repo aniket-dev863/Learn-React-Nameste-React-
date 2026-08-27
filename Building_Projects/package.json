@@ -1,11 +1,11 @@
 {
   "name": "igniting_our_app",
   "version": "1.0.0",
-  "description": "Namaste React By Akshay Saini ",
+  "description": "Namaste React By Akshay Saini",
   "scripts": {
-    "test": "jest",
-    "start": "npx parcel index.html",
-    "build": "npx"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
   },
   "author": "Aniket Vyavahare",
   "license": "MIT",
