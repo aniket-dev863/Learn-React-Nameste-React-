@@ -21,11 +21,42 @@ const HeaderComp = () => {
     </div>
   );
 };
+
+const RestaurentCard = () => {
+  return (
+    <div className="resCard">
+      <img
+        className="resImg"
+        alt="IMG"
+        src="https://w0.peakpx.com/wallpaper/101/95/HD-wallpaper-burgers-fast-food-delicious-food-sandwiches-harmful-food.jpg"
+      />
+      <h3>Meghana Foods</h3>
+      <h4>Biryani , Chinese and Thai Cousines</h4>
+      <h4>4.4 Stars</h4>
+    </div>
+  );
+};
+
+const BodyComponent = () => {
+  return (
+    <div className="Body">
+      <div className="Search">SearchBar</div>
+      <div className="Restuarent-Container">
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+      </div>
+    </div>
+  );
+};
 const AppLayout = () => {
   return (
     <div>
       <HeaderComp />
-      <div>Body</div>
+      <div>
+        <BodyComponent />
+      </div>
       <div>Footer</div>
     </div>
   );
