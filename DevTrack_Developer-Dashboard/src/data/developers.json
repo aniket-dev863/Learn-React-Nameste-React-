@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Aniket Sharma",
+    "role": "Frontend Developer",
+    "experience": 2,
+    "skills": ["JavaScript", "React", "Node.js"],
+    "rating": 4.8,
+    "location": "Pune"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "role": "Backend Developer",
+    "experience": 4,
+    "skills": ["Node.js", "PostgreSQL", "Docker"],
+    "rating": 4.6,
+    "location": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Mehta",
+    "role": "Full Stack Developer",
+    "experience": 3,
+    "skills": ["React", "Node.js", "MongoDB"],
+    "rating": 4.7,
+    "location": "Mumbai"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "role": "Frontend Developer",
+    "experience": 1,
+    "skills": ["JavaScript", "React", "CSS"],
+    "rating": 4.3,
+    "location": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "role": "Backend Developer",
+    "experience": 5,
+    "skills": ["Java", "Spring Boot", "PostgreSQL"],
+    "rating": 4.9,
+    "location": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "name": "Priya Nair",
+    "role": "Full Stack Developer",
+    "experience": 3,
+    "skills": ["TypeScript", "React", "Node.js"],
+    "rating": 4.5,
+    "location": "Chennai"
+  }
+]
