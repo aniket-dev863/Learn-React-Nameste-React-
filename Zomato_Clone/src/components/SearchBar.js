@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function SearchBar() {
+function SearchBar({ List, setFiltered }) {
   const [query, setquery] = useState("");
   return (
     <div className="search-bar">
@@ -14,6 +14,17 @@ function SearchBar() {
         }}
         placeholder="Search..."
       />
+      <button
+        onClick={() => {
+          setFiltered(
+            List.filter((data) => {
+              return data.name.toLowerCase().includes(query.toLowerCase());
+            }),
+          );
+        }}
+      >
+        Search
+      </button>
     </div>
   );
 }

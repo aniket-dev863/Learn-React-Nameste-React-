@@ -1,7 +1,6 @@
 import RestuarantCard from "./RestuarantCard";
-import resData from "../data/resData.json";
 
-function RestaurantSection() {
+function RestaurantSection({ resData }) {
   return (
     <div className="restaurant-section">
       <div className="restaurant-grid">
