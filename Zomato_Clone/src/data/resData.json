@@ -1,0 +1,4308 @@
+[
+  {
+    "id": "22684339",
+    "type": "restaurant",
+    "name": "The Loma - Cafe And Kitchen",
+    "url": "https://www.zomato.com/pune/the-loma-cafe-and-kitchen-gangadham?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/health-food/",
+          "name": "Healthy Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/tea/",
+          "name": "Tea"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/shake/",
+          "name": "Shake"
+        }
+      ],
+      "locality": {
+        "text": "Gangadham, Pune",
+        "url": "https://www.zomato.com/pune/gangadham-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "52",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "52",
+          "reviewTextSmall": "52 Reviews",
+          "subtext": "52 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21800417",
+    "type": "restaurant",
+    "name": "Flipside Cafe & Bar",
+    "url": "https://www.zomato.com/pune/flipside-cafe-bar-baner?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/7/21800417/8cc294f1a0e2f262d72fdccfac8b0e85_featured_v2.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA4MlwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/alcoholic-beverages/",
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/tea/",
+          "name": "Tea"
+        }
+      ],
+      "locality": {
+        "text": "Baner, Pune",
+        "url": "https://www.zomato.com/pune/baner-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.5",
+      "rating_text": "4.5",
+      "rating_subtitle": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "250",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "250",
+          "reviewTextSmall": "250 Reviews",
+          "subtext": "250 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22659206",
+    "type": "restaurant",
+    "name": "Atmosphere 6",
+    "url": "https://www.zomato.com/pune/atmosphere-6-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/4/6503424/76c0cbdb5d22d73683d7cea9b7a96a01_featured_v2.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "358",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "358",
+          "reviewTextSmall": "358 Reviews",
+          "subtext": "358 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "0 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22681264",
+    "type": "restaurant",
+    "name": "Cresent Dine & Wine",
+    "url": "https://www.zomato.com/pune/cresent-dine-wine-bhosari?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY0XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/juices/",
+          "name": "Juices"
+        }
+      ],
+      "locality": {
+        "text": "Bhosari, Pune",
+        "url": "https://www.zomato.com/pune/bhosari-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "101",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "101",
+          "reviewTextSmall": "101 Reviews",
+          "subtext": "101 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": 19153002,
+    "type": "chain",
+    "name": "Pimlico",
+    "url": "https://www.zomato.com/pune/restaurants/pimlico?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/2/19153002/4ca756864eee520c11e87bf8fb5bcd09.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA4MlwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/alcoholic-beverages/",
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sushi/",
+          "name": "Sushi"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/salad/",
+          "name": "Salad"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "subtitle": "View all 2 outlets"
+  },
+  {
+    "id": "22065219",
+    "type": "restaurant",
+    "name": "&Co.",
+    "url": "https://www.zomato.com/pune/co-mundhwa?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/22065219/e9892c01baeb2684647e1a7a3c0ae547.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        }
+      ],
+      "locality": {
+        "text": "Mundhwa, Pune",
+        "url": "https://www.zomato.com/pune/mundhwa-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "398",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.7",
+          "reviewCount": "390",
+          "reviewTextSmall": "390 Reviews",
+          "subtext": "390 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.7",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "8",
+          "reviewTextSmall": "8 Reviews",
+          "subtext": "8 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22798230",
+    "type": "restaurant",
+    "name": "Eskape",
+    "url": "https://www.zomato.com/pune/eskape-bavdhan?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sushi/",
+          "name": "Sushi"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/burger/",
+          "name": "Burger"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQ4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/indian/",
+          "name": "Indian"
+        }
+      ],
+      "locality": {
+        "text": "Bavdhan, Pune",
+        "url": "https://www.zomato.com/pune/bavdhan-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.0",
+      "rating_text": "4.0",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "70",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.0",
+          "reviewCount": "70",
+          "reviewTextSmall": "70 Reviews",
+          "subtext": "70 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.0",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22523345",
+    "type": "restaurant",
+    "name": "Table Stories Courtyard",
+    "url": "https://www.zomato.com/pune/table-stories-courtyard-mahalunge?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQ4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/indian/",
+          "name": "Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/oriental/",
+          "name": "Oriental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bbq/",
+          "name": "BBQ"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        }
+      ],
+      "locality": {
+        "text": "Mahalunge, Pune",
+        "url": "https://www.zomato.com/pune/mahalunge-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "529",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "509",
+          "reviewTextSmall": "509 Reviews",
+          "subtext": "509 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "20",
+          "reviewTextSmall": "20 Reviews",
+          "subtext": "20 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22730002",
+    "type": "restaurant",
+    "name": "Nuee",
+    "url": "https://www.zomato.com/pune/nuee-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.8",
+      "rating_text": "3.8",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "75",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "3.8",
+          "reviewCount": "75",
+          "reviewTextSmall": "75 Reviews",
+          "subtext": "75 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "3.8",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "600"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "20979932",
+    "type": "restaurant",
+    "name": "Kyma",
+    "url": "https://www.zomato.com/pune/kyma-mundhwa?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/2/20979932/28bff96b95fb2bbb24cd03bc62fd1ea2.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mediterranean/",
+          "name": "Mediterranean"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sushi/",
+          "name": "Sushi"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        }
+      ],
+      "locality": {
+        "text": "Mundhwa, Pune",
+        "url": "https://www.zomato.com/pune/mundhwa-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2,568",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "2,214",
+          "reviewTextSmall": "2,214 Reviews",
+          "subtext": "2,214 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.1",
+          "reviewCount": "354",
+          "reviewTextSmall": "354 Reviews",
+          "subtext": "354 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.1",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "20832356",
+    "type": "restaurant",
+    "name": "Yakii",
+    "url": "https://www.zomato.com/pune/yakii-deccan-gymkhana?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/6/20832356/1a406adafd93ec08826f29e4b3867bb9.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/japanese/",
+          "name": "Japanese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        }
+      ],
+      "locality": {
+        "text": "Deccan Gymkhana, Pune",
+        "url": "https://www.zomato.com/pune/deccan-gymkhana-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2,790",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.4",
+          "reviewCount": "2,280",
+          "reviewTextSmall": "2,280 Reviews",
+          "subtext": "2,280 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.4",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "510",
+          "reviewTextSmall": "510 Reviews",
+          "subtext": "510 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "18310180",
+    "type": "restaurant",
+    "name": "Pune Sugar Box - Conrad Pune",
+    "url": "https://www.zomato.com/pune/pune-sugar-box-conrad-pune-bund-garden?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        }
+      ],
+      "locality": {
+        "text": "Bund Garden Road, Pune",
+        "url": "https://www.zomato.com/pune/bund-garden-road-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "508",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "496",
+          "reviewTextSmall": "496 Reviews",
+          "subtext": "496 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "12",
+          "reviewTextSmall": "12 Reviews",
+          "subtext": "12 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "11469",
+    "type": "restaurant",
+    "name": "Copa Cabana",
+    "url": "https://www.zomato.com/pune/copa-cabana-pimple-nilakh?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/11469/7f0144614c91396dff328627b69c582f.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/salad/",
+          "name": "Salad"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sandwich/",
+          "name": "Sandwich"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Pimple Nilakh, Pune",
+        "url": "https://www.zomato.com/pune/pimple-nilakh-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "13K",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "6,712",
+          "reviewTextSmall": "6,712 Reviews",
+          "subtext": "6,712 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.1",
+          "reviewCount": "6,289",
+          "reviewTextSmall": "6,289 Reviews",
+          "subtext": "6,289 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.1",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22406644",
+    "type": "restaurant",
+    "name": "Sensei Modern Asian",
+    "url": "https://www.zomato.com/pune/sensei-modern-asian-nigdi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/momos/",
+          "name": "Momos"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/japanese/",
+          "name": "Japanese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/thai/",
+          "name": "Thai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        }
+      ],
+      "locality": {
+        "text": "Nigdi, Pune",
+        "url": "https://www.zomato.com/pune/nigdi-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "329",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "232",
+          "reviewTextSmall": "232 Reviews",
+          "subtext": "232 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "97",
+          "reviewTextSmall": "97 Reviews",
+          "subtext": "97 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21582460",
+    "type": "restaurant",
+    "name": "Flow - All Day Bar",
+    "url": "https://www.zomato.com/pune/flow-all-day-bar-baner?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/0/21582460/fc298572ab5387a9756b1c9e203d0307.jpeg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/european/",
+          "name": "European"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA4MlwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/alcoholic-beverages/",
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Baner, Pune",
+        "url": "https://www.zomato.com/pune/baner-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,447",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.7",
+          "reviewCount": "1,394",
+          "reviewTextSmall": "1,394 Reviews",
+          "subtext": "1,394 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.7",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.1",
+          "reviewCount": "53",
+          "reviewTextSmall": "53 Reviews",
+          "subtext": "53 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.1",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22500073",
+    "type": "restaurant",
+    "name": "Tichuka",
+    "url": "https://www.zomato.com/pune/tichuka-hinjawadi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mexican/",
+          "name": "Mexican"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjdcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/korean/",
+          "name": "Korean"
+        }
+      ],
+      "locality": {
+        "text": "Hinjawadi, Pune",
+        "url": "https://www.zomato.com/pune/hinjawadi-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.5",
+      "rating_text": "4.5",
+      "rating_subtitle": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "1,558",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "1,558",
+          "reviewTextSmall": "1,558 Reviews",
+          "subtext": "1,558 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "18951231",
+    "type": "restaurant",
+    "name": "Paashh",
+    "url": "https://www.zomato.com/pune/paashh-1-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/1/18951231/ee756d0b0b5cb52cc0f4495ed20323a1.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/bakery/",
+          "name": "Bakery"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2,132",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "1,580",
+          "reviewTextSmall": "1,580 Reviews",
+          "subtext": "1,580 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "552",
+          "reviewTextSmall": "552 Reviews",
+          "subtext": "552 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21260661",
+    "type": "restaurant",
+    "name": "Aloraa Garden Kitchen & Bar",
+    "url": "https://www.zomato.com/pune/aloraa-garden-kitchen-bar-baner?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/1/21260661/b8f242503c3666611f2a8904d9c92745.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/maharashtrian/",
+          "name": "Maharashtrian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        }
+      ],
+      "locality": {
+        "text": "Baner, Pune",
+        "url": "https://www.zomato.com/pune/baner-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.5",
+      "rating_text": "4.5",
+      "rating_subtitle": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "4,988",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "4,988",
+          "reviewTextSmall": "4,988 Reviews",
+          "subtext": "4,988 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22036229",
+    "type": "restaurant",
+    "name": "Gulp - Beer Garden",
+    "url": "https://www.zomato.com/pune/gulp-beer-garden-fc-road?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/22036229/0b961a3bba5270c775309b2eba8a1622.jpeg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        }
+      ],
+      "locality": {
+        "text": "FC Road, Pune",
+        "url": "https://www.zomato.com/pune/fc-road-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,310",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "1,310",
+          "reviewTextSmall": "1,310 Reviews",
+          "subtext": "1,310 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22572182",
+    "type": "restaurant",
+    "name": "Noronha’s Goan Kitchen & Bar",
+    "url": "https://www.zomato.com/pune/noronhas-goan-kitchen-bar-hinjawadi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        }
+      ],
+      "locality": {
+        "text": "Hinjawadi, Pune",
+        "url": "https://www.zomato.com/pune/hinjawadi-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.5",
+      "rating_text": "3.5",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "58",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.0",
+          "reviewCount": "54",
+          "reviewTextSmall": "54 Reviews",
+          "subtext": "54 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.0",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "3.0",
+          "reviewCount": "4",
+          "reviewTextSmall": "4 Reviews",
+          "subtext": "4 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "3.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "yellow",
+            "tint": "400"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "18730256",
+    "type": "restaurant",
+    "name": "Chafa Cafe And Studio",
+    "url": "https://www.zomato.com/pune/chafa-cafe-and-studio-koregaon-park?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/6/18730256/ed8ec66824c26c825d8f791e2c1fb1ff.jpeg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/health-food/",
+          "name": "Healthy Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/salad/",
+          "name": "Salad"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sandwich/",
+          "name": "Sandwich"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "6,634",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "2,258",
+          "reviewTextSmall": "2,258 Reviews",
+          "subtext": "2,258 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.3",
+          "reviewCount": "4,376",
+          "reviewTextSmall": "4,376 Reviews",
+          "subtext": "4,376 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.3",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22386254",
+    "type": "restaurant",
+    "name": "The Gulmohar Bar & Curryhouse",
+    "url": "https://www.zomato.com/pune/the-gulmohar-bar-curryhouse-koregaon-park?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/chains/2/20933192/9c5461d82760c508126369fa4e3977cd_featured_v2.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDdcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/goan/",
+          "name": "Goan"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/south-indian/",
+          "name": "South Indian"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "770",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "731",
+          "reviewTextSmall": "731 Reviews",
+          "subtext": "731 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.1",
+          "reviewCount": "39",
+          "reviewTextSmall": "39 Reviews",
+          "subtext": "39 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.1",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22381969",
+    "type": "restaurant",
+    "name": "Socio Kitchen & Bar",
+    "url": "https://www.zomato.com/pune/socio-kitchen-bar-baner?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        }
+      ],
+      "locality": {
+        "text": "Baner, Pune",
+        "url": "https://www.zomato.com/pune/baner-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "426",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.2",
+          "reviewCount": "426",
+          "reviewTextSmall": "426 Reviews",
+          "subtext": "426 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.2",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "21121262",
+    "type": "restaurant",
+    "name": "Eight",
+    "url": "https://www.zomato.com/pune/eight-wakad?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/2/21121262/ea00435f9d88daa47270b73caba75cc6.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA3MVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/indo-chinese/",
+          "name": "Indo-Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/japanese/",
+          "name": "Japanese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sushi/",
+          "name": "Sushi"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/thai/",
+          "name": "Thai"
+        }
+      ],
+      "locality": {
+        "text": "Wakad, Pune",
+        "url": "https://www.zomato.com/pune/wakad-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "3,743",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "3,170",
+          "reviewTextSmall": "3,170 Reviews",
+          "subtext": "3,170 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "573",
+          "reviewTextSmall": "573 Reviews",
+          "subtext": "573 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22689956",
+    "type": "restaurant",
+    "name": "Ttura - Kitchen Bar Rooftop & Rooms",
+    "url": "https://www.zomato.com/pune/ttura-kitchen-bar-rooftop-rooms-hinjawadi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/street-food/",
+          "name": "Street Food"
+        }
+      ],
+      "locality": {
+        "text": "Hinjawadi, Pune",
+        "url": "https://www.zomato.com/pune/hinjawadi-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "131",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "119",
+          "reviewTextSmall": "119 Reviews",
+          "subtext": "119 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "12",
+          "reviewTextSmall": "12 Reviews",
+          "subtext": "12 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "20667439",
+    "type": "restaurant",
+    "name": "Mister Merchant’s",
+    "url": "https://www.zomato.com/pune/mister-merchants-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/20667439/e8785aba335cf850cd98adc79f765f58.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTM3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/middle-eastern/",
+          "name": "Middle Eastern"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/arabian/",
+          "name": "Arabic"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjZcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/lebanese/",
+          "name": "Lebanese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mediterranean/",
+          "name": "Mediterranean"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.6",
+      "rating_text": "4.6",
+      "rating_subtitle": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "3,703",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.9",
+          "reviewCount": "2,653",
+          "reviewTextSmall": "2,653 Reviews",
+          "subtext": "2,653 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.9",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "1,050",
+          "reviewTextSmall": "1,050 Reviews",
+          "subtext": "1,050 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "21764392",
+    "type": "restaurant",
+    "name": "Loft - On The Top Kitchen & Bar",
+    "url": "https://www.zomato.com/pune/loft-on-the-top-kitchen-bar-kondhwa?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/2/21764392/63065812d41b528108fbef788d1c188e.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        }
+      ],
+      "locality": {
+        "text": "Kondhwa, Pune",
+        "url": "https://www.zomato.com/pune/kondhwa-restaurants"
+      }
+    },
+    "proOfferText": "Flat 25% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,100",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "1,099",
+          "reviewTextSmall": "1,099 Reviews",
+          "subtext": "1,099 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "1",
+          "reviewTextSmall": "1 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 25,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "25% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "18740139",
+    "type": "restaurant",
+    "name": "Grandmama's",
+    "url": "https://www.zomato.com/pune/grandmamas-koregaon-park?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/reviews_photos/a15/cdf9a0232b8d4c22b278292e35901a15_1603222173.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.9",
+      "rating_text": "3.9",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "4,978",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.0",
+          "reviewCount": "3,463",
+          "reviewTextSmall": "3,463 Reviews",
+          "subtext": "3,463 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.0",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "3.7",
+          "reviewCount": "1,515",
+          "reviewTextSmall": "1,515 Reviews",
+          "subtext": "1,515 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "3.7",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22292011",
+    "type": "restaurant",
+    "name": "JULY 7",
+    "url": "https://www.zomato.com/pune/july-7-1-pimple-nilakh?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        }
+      ],
+      "locality": {
+        "text": "Pimple Nilakh, Pune",
+        "url": "https://www.zomato.com/pune/pimple-nilakh-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.0",
+      "rating_text": "4.0",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,355",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "1,348",
+          "reviewTextSmall": "1,348 Reviews",
+          "subtext": "1,348 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "3.5",
+          "reviewCount": "7",
+          "reviewTextSmall": "7 Reviews",
+          "subtext": "7 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "3.5",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21281449",
+    "type": "restaurant",
+    "name": "Narrative",
+    "url": "https://www.zomato.com/pune/narrative-mundhwa?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/9/21281449/4e3a49da592c74219a5771d2d3b91ff4.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        }
+      ],
+      "locality": {
+        "text": "Mundhwa, Pune",
+        "url": "https://www.zomato.com/pune/mundhwa-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,165",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "952",
+          "reviewTextSmall": "952 Reviews",
+          "subtext": "952 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "213",
+          "reviewTextSmall": "213 Reviews",
+          "subtext": "213 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "20455784",
+    "type": "restaurant",
+    "name": "Wynkk Kitchen & Bar",
+    "url": "https://www.zomato.com/pune/wynkk-kitchen-bar-aundh?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/4/20455784/37956b6f204b0abec2c624fa96bfc33c.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/thai/",
+          "name": "Thai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        }
+      ],
+      "locality": {
+        "text": "Aundh, Pune",
+        "url": "https://www.zomato.com/pune/aundh-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "393",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "385",
+          "reviewTextSmall": "385 Reviews",
+          "subtext": "385 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "8",
+          "reviewTextSmall": "8 Reviews",
+          "subtext": "8 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22720834",
+    "type": "restaurant",
+    "name": "kai.ros",
+    "url": "https://www.zomato.com/pune/kai-ros-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "142",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.2",
+          "reviewCount": "142",
+          "reviewTextSmall": "142 Reviews",
+          "subtext": "142 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.2",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21768422",
+    "type": "restaurant",
+    "name": "Lucia",
+    "url": "https://www.zomato.com/pune/lucia-1-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/2/21768422/c372f041747f22dd3b99fa6dc8e88241.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "260",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": {
+        "text": "Newly Opened",
+        "color": "#FFFFFF",
+        "bgColor": "#F4A266",
+        "bgColorV2": {
+          "type": "green",
+          "tint": "100"
+        },
+        "subtitle": "OUTLET",
+        "ratingV2": "New"
+      },
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "260",
+          "reviewTextSmall": "260 Reviews",
+          "subtext": "260 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "New on Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": true
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21526206",
+    "type": "restaurant",
+    "name": "Cibbo All Day Dining & Bar",
+    "url": "https://www.zomato.com/pune/cibbo-all-day-dining-bar-shivaji-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/6/21526206/109f3b9e4f3f60bd1e250c6bb5f715f7.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        }
+      ],
+      "locality": {
+        "text": "Shivaji Nagar, Pune",
+        "url": "https://www.zomato.com/pune/shivaji-nagar-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,286",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "1,152",
+          "reviewTextSmall": "1,152 Reviews",
+          "subtext": "1,152 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.3",
+          "reviewCount": "134",
+          "reviewTextSmall": "134 Reviews",
+          "subtext": "134 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.3",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "20852249",
+    "type": "restaurant",
+    "name": "Aromas Cafe & Bistro",
+    "url": "https://www.zomato.com/pune/aromas-cafe-bistro-baner?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/tea/",
+          "name": "Tea"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/shake/",
+          "name": "Shake"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjZcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/lebanese/",
+          "name": "Lebanese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mexican/",
+          "name": "Mexican"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Baner, Pune",
+        "url": "https://www.zomato.com/pune/baner-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "2,000",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.6",
+          "reviewCount": "1,222",
+          "reviewTextSmall": "1,222 Reviews",
+          "subtext": "1,222 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.6",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.2",
+          "reviewCount": "778",
+          "reviewTextSmall": "778 Reviews",
+          "subtext": "778 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.2",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "20476745",
+    "type": "restaurant",
+    "name": "Tao - Fu - JW Marriott Pune",
+    "url": "https://www.zomato.com/pune/tao-fu-jw-marriott-pune-senapati-bapat-road?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/5/20476745/697213269f9c3edae92a7400ffbb66e0.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        }
+      ],
+      "locality": {
+        "text": "Senapati Bapat Road, Pune",
+        "url": "https://www.zomato.com/pune/senapati-bapat-road-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.7",
+      "rating_text": "4.7",
+      "rating_subtitle": "Excellent",
+      "rating_color": "3F7E00",
+      "votes": "466",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.7",
+          "reviewCount": "466",
+          "reviewTextSmall": "466 Reviews",
+          "subtext": "466 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.7",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "21208838",
+    "type": "restaurant",
+    "name": "The Boho House Cocktail Bar",
+    "url": "https://www.zomato.com/pune/the-boho-house-cocktail-bar-balewadi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/8/21208838/5d5ea6d73a88e2016ef4df63faec9579.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/american/",
+          "name": "American"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        }
+      ],
+      "locality": {
+        "text": "Balewadi, Pune",
+        "url": "https://www.zomato.com/pune/balewadi-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.1",
+      "rating_text": "4.1",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,249",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.1",
+          "reviewCount": "1,235",
+          "reviewTextSmall": "1,235 Reviews",
+          "subtext": "1,235 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.1",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "14",
+          "reviewTextSmall": "14 Reviews",
+          "subtext": "14 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "21438467",
+    "type": "restaurant",
+    "name": "Tiger Naan",
+    "url": "https://www.zomato.com/pune/tiger-naan-koregaon-park?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/7/21438467/3018ade246c8b22e6bd93641a05d5b1e.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/japanese/",
+          "name": "Japanese"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "678",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.4",
+          "reviewCount": "585",
+          "reviewTextSmall": "585 Reviews",
+          "subtext": "585 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.4",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "93",
+          "reviewTextSmall": "93 Reviews",
+          "subtext": "93 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "21731083",
+    "type": "restaurant",
+    "name": "THE NOOK DINER AND BAR",
+    "url": "https://www.zomato.com/pune/the-nook-diner-and-bar-viman-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/3/21731083/16955343281656963e19820df2b5c680.jpeg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/street-food/",
+          "name": "Street Food"
+        }
+      ],
+      "locality": {
+        "text": "Viman Nagar, Pune",
+        "url": "https://www.zomato.com/pune/viman-nagar-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "36",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "31",
+          "reviewTextSmall": "31 Reviews",
+          "subtext": "31 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.0",
+          "reviewCount": "5",
+          "reviewTextSmall": "5 Reviews",
+          "subtext": "5 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.0",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "22746279",
+    "type": "restaurant",
+    "name": "Hotel Gautam Palace Cafe",
+    "url": "https://www.zomato.com/pune/hotel-gautam-palace-cafe-lonavala?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mexican/",
+          "name": "Mexican"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyNFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/wraps/",
+          "name": "Wraps"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/burger/",
+          "name": "Burger"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        }
+      ],
+      "locality": {
+        "text": "Lonavala, Pune",
+        "url": "https://www.zomato.com/pune/lonavala-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.1",
+      "rating_text": "4.1",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "21",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": {
+        "text": "Newly Opened",
+        "color": "#FFFFFF",
+        "bgColor": "#F4A266",
+        "bgColorV2": {
+          "type": "green",
+          "tint": "100"
+        },
+        "subtitle": "OUTLET",
+        "ratingV2": "New"
+      },
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.1",
+          "reviewCount": "21",
+          "reviewTextSmall": "21 Reviews",
+          "subtext": "21 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.1",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "New on Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": true
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "20997893",
+    "type": "restaurant",
+    "name": "Ek Quarter - By Kukoo",
+    "url": "https://www.zomato.com/pune/ek-quarter-by-kukoo-kalyani-nagar?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/modern-indian/",
+          "name": "Modern Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/salad/",
+          "name": "Salad"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "locality": {
+        "text": "Kalyani Nagar, Pune",
+        "url": "https://www.zomato.com/pune/kalyani-nagar-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "3.9",
+      "rating_text": "3.9",
+      "rating_subtitle": "Good",
+      "rating_color": "9ACD32",
+      "votes": "1,155",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.3",
+          "reviewCount": "1,135",
+          "reviewTextSmall": "1,135 Reviews",
+          "subtext": "1,135 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.3",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "3.5",
+          "reviewCount": "20",
+          "reviewTextSmall": "20 Reviews",
+          "subtext": "20 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "3.5",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "20643996",
+    "type": "restaurant",
+    "name": "The Voyage",
+    "url": "https://www.zomato.com/pune/the-voyage-koregaon-park?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/european/",
+          "name": "European"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/health-food/",
+          "name": "Healthy Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "locality": {
+        "text": "Koregaon Park, Pune",
+        "url": "https://www.zomato.com/pune/koregaon-park-restaurants"
+      }
+    },
+    "proOfferText": "Flat 15% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.3",
+      "rating_text": "4.3",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,621",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.5",
+          "reviewCount": "1,434",
+          "reviewTextSmall": "1,434 Reviews",
+          "subtext": "1,434 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.5",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "800"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.1",
+          "reviewCount": "187",
+          "reviewTextSmall": "187 Reviews",
+          "subtext": "187 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.1",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 15,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "15% OFF",
+      "isGoldIcon": false
+    }
+  },
+  {
+    "id": "21922143",
+    "type": "restaurant",
+    "name": "Kiki",
+    "url": "https://www.zomato.com/pune/kiki-sangamvadi?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/3/21922143/0b81ff379a55f866cc735c4a94c9c139.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/bar-food/",
+          "name": "Bar Food"
+        }
+      ],
+      "locality": {
+        "text": "Sangamvadi, Pune",
+        "url": "https://www.zomato.com/pune/sangamvadi-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.2",
+      "rating_text": "4.2",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "1,014",
+      "subtext": "REVIEW",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.2",
+          "reviewCount": "1,014",
+          "reviewTextSmall": "1,014 Reviews",
+          "subtext": "1,014 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.2",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "",
+          "reviewCount": "0",
+          "reviewTextSmall": "0 Reviews",
+          "subtext": "Does not offer Delivery",
+          "color": "",
+          "ratingV2": "-",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "100"
+          },
+          "textColorV2": {
+            "type": "green",
+            "tint": "500"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "19306917",
+    "type": "restaurant",
+    "name": "Aasmana: The Ritz-Carlton",
+    "url": "https://www.zomato.com/pune/aasmana-the-ritz-carlton-yerawada?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/data/pictures/7/19306917/b4db064f72d82ae5b9f0a8024179bb43.jpg?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mughlai/",
+          "name": "Mughlai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        }
+      ],
+      "locality": {
+        "text": "Yerawada, Pune",
+        "url": "https://www.zomato.com/pune/yerawada-restaurants"
+      }
+    },
+    "proOfferText": "",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "217",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.4",
+          "reviewCount": "140",
+          "reviewTextSmall": "140 Reviews",
+          "subtext": "140 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.4",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.3",
+          "reviewCount": "77",
+          "reviewTextSmall": "77 Reviews",
+          "subtext": "77 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.3",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false
+  },
+  {
+    "id": "22198314",
+    "type": "restaurant",
+    "name": "Bookbar",
+    "url": "https://www.zomato.com/pune/bookbar-fc-road?zrp_bid=0&zrp_pid=14",
+    "imageUrl": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+    "subtitleData": {
+      "cuisines": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sandwich/",
+          "name": "Sandwich"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/continental/",
+          "name": "Continental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/american/",
+          "name": "American"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        }
+      ],
+      "locality": {
+        "text": "FC Road, Pune",
+        "url": "https://www.zomato.com/pune/fc-road-restaurants"
+      }
+    },
+    "proOfferText": "Flat 10% OFF",
+    "rating": {
+      "has_fake_reviews": 0,
+      "aggregate_rating": "4.4",
+      "rating_text": "4.4",
+      "rating_subtitle": "Very Good",
+      "rating_color": "5BA829",
+      "votes": "556",
+      "subtext": "REVIEWS",
+      "is_new": false
+    },
+    "rating_new": {
+      "newlyOpenedObj": null,
+      "suspiciousReviewObj": null,
+      "ratings": {
+        "DINING": {
+          "rating_type": "DINING",
+          "rating": "4.4",
+          "reviewCount": "405",
+          "reviewTextSmall": "405 Reviews",
+          "subtext": "405 Dining Reviews",
+          "color": "#1C1C1C",
+          "ratingV2": "4.4",
+          "subtitle": "DINING",
+          "sideSubTitle": "Dining Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDining": false
+        },
+        "DELIVERY": {
+          "rating_type": "DELIVERY",
+          "rating": "4.3",
+          "reviewCount": "151",
+          "reviewTextSmall": "151 Reviews",
+          "subtext": "151 Delivery Reviews",
+          "color": "#E23744",
+          "ratingV2": "4.3",
+          "subtitle": "DELIVERY",
+          "sideSubTitle": "Delivery Ratings",
+          "bgColorV2": {
+            "type": "green",
+            "tint": "700"
+          },
+          "newOnDelivery": false
+        }
+      }
+    },
+    "isBookmarked": false,
+    "gold": {
+      "instant": 10,
+      "welcome_offer": false,
+      "gold_offer": false,
+      "text": "Flat",
+      "offerValue": "10% OFF",
+      "isGoldIcon": false
+    }
+  }
+]

@@ -1,0 +1,685 @@
+/* =========================================
+   GLOBAL RESET
+========================================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #1c1c1c;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* =========================================
+   APP
+========================================= */
+
+.app {
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+/* =========================================
+   NAVBAR
+========================================= */
+
+.navbar {
+  height: 68px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 32px;
+
+  background: #ffffff;
+
+  border-top: 3px solid #39204d;
+  border-bottom: 1px solid #e5e5e5;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Back button */
+
+.navbar__back {
+  width: 40px;
+  height: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: none;
+  background: transparent;
+
+  font-size: 26px;
+  color: #333;
+
+  transition: background 0.2s ease;
+}
+
+.navbar__back:hover {
+  background: #f5f5f5;
+  border-radius: 50%;
+}
+
+/* Logo */
+
+.navbar__logo {
+  font-size: 30px;
+  font-weight: 800;
+
+  font-style: italic;
+
+  color: #1c1c1c;
+
+  letter-spacing: -1.5px;
+}
+
+/* Profile */
+
+.navbar__profile {
+  width: 40px;
+  height: 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 1px solid #ddd;
+  border-radius: 50%;
+
+  background: #ffffff;
+
+  font-size: 18px;
+
+  transition: box-shadow 0.2s ease;
+}
+
+.navbar__profile:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* =========================================
+   PAGE CONTAINER
+========================================= */
+
+.page-container {
+  width: min(1200px, calc(100% - 48px));
+
+  margin: 0 auto;
+
+  padding: 32px 0 60px;
+}
+
+/* =========================================
+   SEARCH SECTION
+========================================= */
+
+.search-section {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 24px;
+}
+
+/* Search bar */
+
+.search-bar {
+  width: 100%;
+  max-width: 720px;
+  height: 52px;
+
+  display: flex;
+  align-items: center;
+
+  background: #ffffff;
+
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.search-bar:focus-within {
+  border-color: #9b9b9b;
+
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Search icon */
+
+.search-bar__icon {
+  width: 52px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #777;
+
+  font-size: 20px;
+}
+
+/* Search input */
+
+.search-bar__input {
+  flex: 1;
+
+  height: 100%;
+
+  border: none;
+  outline: none;
+
+  background: transparent;
+
+  font-size: 15px;
+  color: #1c1c1c;
+}
+
+.search-bar__input::placeholder {
+  color: #999;
+}
+
+/* =========================================
+   FILTER SECTION
+========================================= */
+
+.filter-section {
+  display: flex;
+  align-items: center;
+
+  gap: 12px;
+
+  margin-bottom: 28px;
+
+  overflow-x: auto;
+
+  scrollbar-width: none;
+}
+
+.filter-section::-webkit-scrollbar {
+  display: none;
+}
+
+/* Filter button */
+
+.filter-button {
+  flex-shrink: 0;
+
+  height: 40px;
+
+  padding: 0 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 7px;
+
+  background: #ffffff;
+
+  border: 1px solid #d5d5d5;
+  border-radius: 7px;
+
+  color: #555;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.filter-button:hover {
+  background: #f7f7f7;
+  border-color: #aaa;
+}
+
+/* Active filter */
+
+.filter-button--active {
+  background: #f8f0f4;
+
+  border-color: #d9b9c7;
+
+  color: #9b294f;
+}
+
+/* =========================================
+   RESTAURANT SECTION
+========================================= */
+
+.restaurant-section {
+  width: 100%;
+}
+
+/* Optional section heading */
+
+.restaurant-section__title {
+  margin-bottom: 20px;
+
+  font-size: 24px;
+  font-weight: 700;
+
+  color: #1c1c1c;
+}
+
+/* =========================================
+   RESTAURANT GRID
+========================================= */
+
+.restaurant-grid {
+  display: grid;
+
+  grid-template-columns: repeat(4, 1fr);
+
+  gap: 24px 20px;
+}
+
+/* =========================================
+   RESTAURANT CARD
+========================================= */
+
+.restaurant-card {
+  min-width: 0;
+
+  background: #f8f8fa;
+
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  cursor: pointer;
+}
+
+.restaurant-card:hover {
+  transform: translateY(-3px);
+
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* =========================================
+   IMAGE
+========================================= */
+
+.restaurant-card__image-wrapper {
+  width: 100%;
+
+  aspect-ratio: 1.55 / 1;
+
+  position: relative;
+
+  overflow: hidden;
+
+  background: #eeeeee;
+}
+
+.restaurant-card__image {
+  width: 100%;
+  height: 100%;
+
+  display: block;
+
+  object-fit: cover;
+
+  transition: transform 0.3s ease;
+}
+
+.restaurant-card:hover .restaurant-card__image {
+  transform: scale(1.03);
+}
+
+/* =========================================
+   BOOKMARK
+========================================= */
+
+.restaurant-card__bookmark {
+  position: absolute;
+
+  top: 12px;
+  right: 12px;
+
+  width: 34px;
+  height: 34px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: none;
+
+  border-radius: 50%;
+
+  background: rgba(255, 255, 255, 0.95);
+
+  color: #333;
+
+  font-size: 17px;
+
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+
+  z-index: 2;
+}
+
+.restaurant-card__bookmark:hover {
+  background: #ffffff;
+
+  transform: scale(1.05);
+}
+
+/* =========================================
+   DISCOUNT BADGE
+========================================= */
+
+.restaurant-card__discount {
+  position: absolute;
+
+  left: 0;
+  bottom: 0;
+
+  min-width: 145px;
+
+  height: 34px;
+
+  padding: 0 14px;
+
+  display: flex;
+  align-items: center;
+
+  background: linear-gradient(90deg, #2774e8, #4c8ff0, transparent);
+
+  color: #ffffff;
+
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* =========================================
+   NEW BADGE
+========================================= */
+
+.restaurant-card__new {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 3px 7px;
+
+  margin-bottom: 7px;
+
+  border: 1px solid #22a447;
+
+  border-radius: 5px;
+
+  color: #15923a;
+
+  background: #ffffff;
+
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* =========================================
+   CARD CONTENT
+========================================= */
+
+.restaurant-card__content {
+  padding: 14px 14px 16px;
+}
+
+/* =========================================
+   RATING + TYPE
+========================================= */
+
+.restaurant-card__rating-row {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+
+  margin-bottom: 7px;
+}
+
+.restaurant-card__rating {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 4px 7px;
+
+  background: #16763c;
+
+  border-radius: 5px;
+
+  color: #ffffff;
+
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.restaurant-card__type {
+  color: #666;
+
+  font-size: 12px;
+  font-weight: 500;
+
+  letter-spacing: 0.2px;
+}
+
+/* =========================================
+   RESTAURANT NAME
+========================================= */
+
+.restaurant-card__name {
+  margin-bottom: 6px;
+
+  color: #222;
+
+  font-size: 18px;
+  font-weight: 700;
+
+  line-height: 1.25;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* =========================================
+   CUISINES
+========================================= */
+
+.restaurant-card__cuisines {
+  margin-bottom: 5px;
+
+  color: #555;
+
+  font-size: 14px;
+
+  line-height: 1.4;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* =========================================
+   LOCATION
+========================================= */
+
+.restaurant-card__location {
+  color: #666;
+
+  font-size: 14px;
+
+  line-height: 1.4;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* =========================================
+   EMPTY STATE
+========================================= */
+
+.empty-state {
+  width: 100%;
+
+  padding: 70px 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+}
+
+.empty-state__title {
+  margin-bottom: 8px;
+
+  font-size: 22px;
+  font-weight: 700;
+
+  color: #333;
+}
+
+.empty-state__text {
+  color: #777;
+
+  font-size: 15px;
+}
+
+/* =========================================
+   RESPONSIVE — TABLET
+========================================= */
+
+@media (max-width: 1000px) {
+  .restaurant-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* =========================================
+   RESPONSIVE — SMALL TABLET
+========================================= */
+
+@media (max-width: 760px) {
+  .navbar {
+    height: 62px;
+
+    padding: 0 18px;
+  }
+
+  .navbar__logo {
+    font-size: 26px;
+  }
+
+  .page-container {
+    width: calc(100% - 32px);
+
+    padding-top: 24px;
+  }
+
+  .restaurant-grid {
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 18px 14px;
+  }
+}
+
+/* =========================================
+   RESPONSIVE — MOBILE
+========================================= */
+
+@media (max-width: 520px) {
+  .navbar {
+    padding: 0 14px;
+  }
+
+  .navbar__back,
+  .navbar__profile {
+    width: 36px;
+    height: 36px;
+  }
+
+  .navbar__logo {
+    font-size: 24px;
+  }
+
+  .page-container {
+    width: calc(100% - 24px);
+
+    padding-top: 18px;
+  }
+
+  .search-bar {
+    height: 48px;
+  }
+
+  .filter-section {
+    margin-bottom: 22px;
+  }
+
+  .restaurant-grid {
+    grid-template-columns: 1fr;
+
+    gap: 18px;
+  }
+
+  .restaurant-card__image-wrapper {
+    aspect-ratio: 1.7 / 1;
+  }
+}
+
+/* =========================================
+   VERY SMALL MOBILE
+========================================= */
+
+@media (max-width: 360px) {
+  .navbar__logo {
+    font-size: 22px;
+  }
+
+  .page-container {
+    width: calc(100% - 20px);
+  }
+
+  .restaurant-card__content {
+    padding: 12px;
+  }
+}
